@@ -1,2 +1,2 @@
 # Content_Management_System
-Here I had created a  Content Management System.
+This is a web based Project. In this website you can create new account and can give your details which will be stored in the locally install server.
